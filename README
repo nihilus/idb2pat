@@ -1,5 +1,7 @@
 IDB2PAT
 
+Fixed for IDA Pro 6.5 by nihilus@hack.se
+
 fixed a few things and ingtgrated crc16.cpp into it to work proper with 
 IDA 6.2 OSX. Porting it back to Windows should be easy.
 
